@@ -15,9 +15,7 @@ public class Calculate {
  /*   private boolean isNumber(String key) {
         try {
             Integer.parseInt(key);
-            return true;
-        } catch (NumberFormatException e) {
-        }            sdfgdfgdhdfh
+            return true; 123132
     } */
 
     /***
