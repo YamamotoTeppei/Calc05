@@ -17,7 +17,7 @@ public class Calculate {
             Integer.parseInt(key);
             return true;
         } catch (NumberFormatException e) {
-        }               Thanh sucker
+        }            
     } */
 
     /***
