@@ -12,14 +12,14 @@ public class Calculate {
     /***
      * パラメーターのKeyが数値ならTRUEを返却
      */
-    private boolean isNumber(String key) {
+ /*   private boolean isNumber(String key) {
         try {
             Integer.parseInt(key);
             return true;
         } catch (NumberFormatException e) {
         }
         return false;
-    }
+    } */
 
     /***
      * パラメーターのKeyがサポートしている演算子ならTRUEを返却
